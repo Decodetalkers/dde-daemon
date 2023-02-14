@@ -25,7 +25,6 @@ require (
 )
 
 require (
-	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/josharian/native v1.0.0 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
@@ -51,4 +50,4 @@ replace github.com/linuxdeepin/go-lib => github.com/Decodetalkers/go-lib v0.0.0-
 
 replace github.com/linuxdeepin/go-dbus-factory => github.com/Decodetalkers/go-dbus-factory v0.0.0-20230214081229-2794c96a723b
 
-replace github.com/linuxdeepin/dde-api => github.com/Decodetalkers/dde-api v0.0.0-20230214081925-957fbbfe4e63
+replace github.com/linuxdeepin/dde-api => github.com/Decodetalkers/dde-api v0.0.0-20230214090325-ae1e522c17ff

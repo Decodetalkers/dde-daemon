@@ -1,5 +1,5 @@
-github.com/Decodetalkers/dde-api v0.0.0-20230214081925-957fbbfe4e63 h1:sseNs0qMu6hPAn/3orgfgB3DIdEuXDGymYh60QIyaB4=
-github.com/Decodetalkers/dde-api v0.0.0-20230214081925-957fbbfe4e63/go.mod h1:Ol3kPPlqTuA/dRgpjk1dWSmCX8M6ElROeMXIXkbbbNA=
+github.com/Decodetalkers/dde-api v0.0.0-20230214090325-ae1e522c17ff h1:0so2YmhXUpNJByY3ng17Z5bFRJ+WALM7NDzTyAZ6fg0=
+github.com/Decodetalkers/dde-api v0.0.0-20230214090325-ae1e522c17ff/go.mod h1:B0W0g64T+SwksaukjNJp8oA5FP/4KyXue9ptWoAF54I=
 github.com/Decodetalkers/go-dbus-factory v0.0.0-20230214081229-2794c96a723b h1:ufn3yp7eGMeJy1wx9nLadMKfoQXZ3BXB0Im2myDjVAU=
 github.com/Decodetalkers/go-dbus-factory v0.0.0-20230214081229-2794c96a723b/go.mod h1:36KehV0gWgN5EZGwxHtdfFM6f8lEvtRwI9rdZY9OLr8=
 github.com/Decodetalkers/go-lib v0.0.0-20230207102150-285b65f72371 h1:ATVW+gpTAXJMEpR8EB6F/cNWh+JUfSiQjIrZLjATmmE=
@@ -14,8 +14,6 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fsnotify/fsnotify v1.6.0 h1:n+5WquG0fcWoWp6xPWfHdbskMCQaFnG6PfBrh1Ky4HY=
 github.com/fsnotify/fsnotify v1.6.0/go.mod h1:sl3t1tCWJFWoRz9R8WJCbQihKKwmorjAbSClcnxKAGw=
-github.com/godbus/dbus v4.1.0+incompatible h1:WqqLRTsQic3apZUK9qC5sGNfXthmPXzUZ7nQPrNITa4=
-github.com/godbus/dbus v4.1.0+incompatible/go.mod h1:/YcGZj5zSblfDWMMoOzV4fas9FZnQYTkDnsGvmh2Grw=
 github.com/godbus/dbus/v5 v5.1.0 h1:4KLkAxT3aOY8Li4FRJe/KvhoNFFxo0m6fNuFUO8QJUk=
 github.com/godbus/dbus/v5 v5.1.0/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
