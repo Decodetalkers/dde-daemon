@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/godbus/dbus"
 	networkmanager "github.com/linuxdeepin/go-dbus-factory/system/org.freedesktop.networkmanager"
+	"github.com/godbus/dbus/v5"
 	polkit "github.com/linuxdeepin/go-dbus-factory/system/org.freedesktop.policykit1"
 	"github.com/linuxdeepin/go-lib/dbusutil"
 )
