@@ -50,4 +50,4 @@ replace github.com/linuxdeepin/go-lib => github.com/Decodetalkers/go-lib v0.0.0-
 
 replace github.com/linuxdeepin/go-dbus-factory => github.com/Decodetalkers/go-dbus-factory v0.0.0-20230214081229-2794c96a723b
 
-replace github.com/linuxdeepin/dde-api => github.com/Decodetalkers/dde-api v0.0.0-20230214090325-ae1e522c17ff
+replace github.com/linuxdeepin/dde-api => github.com/Decodetalkers/dde-api v0.0.0-20230216032407-ff35edb6934e
